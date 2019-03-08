@@ -59,3 +59,32 @@ typings/
 
 # next.js build output
 .next
+
+.DS_store
+*.jpg
+*.gif
+*.png
+*.svg
+*.ico
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+*.wav
+*.mp3
+*.wma
+*.eot
+*.ttf
+*.woff
+app/audio
+app/video
+app/img
+audio
+video
+img
